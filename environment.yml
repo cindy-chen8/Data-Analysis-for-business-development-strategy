@@ -1,0 +1,14 @@
+name: kpay_case_study
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - scikit-learn
+  - openpyxl
+  - pip
